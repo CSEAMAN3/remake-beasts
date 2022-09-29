@@ -1,0 +1,40 @@
+/*************
+General Elements
+**************/
+
+/*************
+Images
+**************/
+
+/*************
+Buttons / Links
+**************/
+
+/*************
+Typography
+**************/
+
+.header-heading {
+  font-size: 2rem;
+  font-weight: 700;
+  color: var(--wht);
+}
+
+/*************
+Layout
+**************/
+
+.header {
+  background-color: var(--db);
+  padding: 2rem 0;
+}
+
+.header-container {
+  max-width: 1024px;
+  width: 90%;
+  margin: 0 auto;
+}
+
+/*************
+Media Queries
+**************/
